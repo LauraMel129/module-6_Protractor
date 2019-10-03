@@ -1,1 +1,1 @@
-# module-6_Webdriver
+# module-6_Protractor
